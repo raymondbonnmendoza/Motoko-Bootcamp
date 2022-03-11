@@ -62,8 +62,6 @@ shared ({ caller = creator }) actor class MyCanister() = {
         version_number := version_number + 1;
     };
 
-    //Challenge 9 : In a new file, copy and paste the functionnalities you've created in challenges 2 to 5. This time the hashmap and all records should be preserved accross upgrades.
-    
     //Challenge 10 (optionale) : In autonomy, write a CRUD canister, you can add as much functionnalities as you want, a few examples :
         //Anonymous principal rejection.
         //Cycle functionnality for registration.
