@@ -4,6 +4,10 @@
       "main": "src/day_5/main.mo",
       "type": "motoko"
     },
+    "day_5_alt": {
+      "main": "src/day_5_alt/alt.mo",
+      "type": "motoko"
+    },
     "day_5_assets": {
       "dependencies": [
         "day_5"
